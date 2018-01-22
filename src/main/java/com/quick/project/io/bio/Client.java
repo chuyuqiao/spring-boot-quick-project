@@ -1,4 +1,4 @@
-package com.quick.project.io;
+package com.quick.project.io.bio;
 
 import com.quick.project.util.io.IOUtils;
 import lombok.extern.slf4j.Slf4j;

@@ -1,4 +1,4 @@
-package com.quick.project.nio;
+package com.quick.project.io.nio;
 
 
 import com.quick.project.util.io.IOUtils;
